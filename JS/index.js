@@ -51,22 +51,3 @@ function generateQoute() {
   document.getElementById("qoute").innerHTML = qoute[random].qouteOutput;
   document.getElementById("auther").innerHTML = qoute[random].qouteAuther;
 }
-
-
-
-
-// var lastRandom = -1;
-// var random = -1;
-// function generateQoute() {
-//   do {
-//     function generateRndInteger() {
-//       return Math.floor(Math.random() * qoute.length);
-//     }
-//     random = generateRndInteger();
-//     console.log("lastRandom ==>" + lastRandom);
-//     console.log("random ==>" + random);
-//   } while (lastRandom == random);
-//   lastRandom = random;
-//   document.getElementById("qoute").innerHTML = qoute[random].qouteOutput;
-//   document.getElementById("auther").innerHTML = qoute[random].qouteAuther;
-// }
