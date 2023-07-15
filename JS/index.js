@@ -43,7 +43,9 @@ var lastRandom=0;
 function generateQoute() {
   do {
     var random = Math.floor(Math.random() * qoute.length);
+    // To view the last genertated random number
     // console.log("lastRandom ==>" + lastRandom);
+    // To view the current random number
     // console.log("random ==>" + random);
     }
   while (lastRandom == random);
