@@ -12,6 +12,13 @@ Welcome to the `Random Quote Generator`! Embark on a journey of wisdom, wit, and
 
 Dive into an ocean of thoughts, musings, and insights, and who knows, you might stumble upon a quote that resonates deeply and changes your day or even your perspective on life!
 
+## Tech Stack 🔧
+
+- **Frontend**: HTML5, CSS3, Bootstrap & JavaScript.
+- **Animations**: Utilized CSS to create interactive animations for enhanced user experience.
+- **Responsive Design**: Media Query, Bootstrap.
+- **UI & Design Tools**: FontAwesome.
+
 ## 💌 Feedback
 
 Did a quote touch your soul? Or do you have suggestions to make this experience even better? I'm all ears. Your feedback not only helps improve this tool but also inspires me to keep creating and curating. Share your thoughts!
